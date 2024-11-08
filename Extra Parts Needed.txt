@@ -1,0 +1,8 @@
+24 pin ATX Connector x 1				538-39-28-1243
+Transistor x 1						2N4401
+M2.5 x 6mm + 6mm Male Female Hex Thread Nylon x 4
+M2.5 Thread Insert Lock Screw Fastener Nylon Hex Nuts x 4
+M2.5 x 6mm Nylon Phillips Cross Pan Head Machine Screws x 4
+
+PicoATX: 			www.amzn.com/B0D2W3Z4VV
+AC/DC Converter: 		www.amzn.com/B07TDXBLXL
